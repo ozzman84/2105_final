@@ -72,7 +72,7 @@ pry(main)> train1.count_cars(car1)
 
 pry(main)> train1.add_cars(car2, 10)
 
-pry(main)> train1.cargo
+pry(main)> train1.add_cars(car2, 10)
 # => {#<Car:0x87123ffe...> => 5, #<Car:0x8711233abc...> => 10}
 ```
 
